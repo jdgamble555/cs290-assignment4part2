@@ -1,0 +1,7 @@
+Start: Wed, 6 May 2015 18:00:22 -0700
+End: Wed, 6 May 2015 20:12:26 -0700
+Tasks: Set up php environment, mysql table and fields, set up local mysql, basic mysqli script to connect
+
+Start: Sat, 9 May 2015 12:20:00 -0700
+End: Sat, 9 May 2015 23:42:26 -0700
+Tasks: Designed db all day, finished, mysql error handling took the most time, which we didn't use if all goes well

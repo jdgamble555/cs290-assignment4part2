@@ -1,7 +1,10 @@
 <?php
 /* Author: Jonathan Gamble
 /* Course: CS290 @Oregon State Spring Term 2015
-*/    
+/* - while all code is mine, basic connecting strategy 
+/*   taken from PHP and MySQL for Dynamic Web Sites 
+/*   (4th ed.) by Larry Ullman Ch. 9
+*/ 
 
 // include login information
 require 'login.php';
